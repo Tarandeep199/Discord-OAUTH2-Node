@@ -20,3 +20,5 @@ SETUP IN ORDER TO RUN PROPERLY
 5. IN THE CONFIG/DEFAULT.JSON PASTE YOUR MONGODB URI WHERE IT IS SPECIFIED.
 
 6. TYPE "NPM RUN DEV" TO START THE APP
+
+Feel free to reach out to me via email or discord (tarantastic#7824) if you have any issues or need assistance.
