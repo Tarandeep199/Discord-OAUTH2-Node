@@ -1,0 +1,470 @@
+//req.user.profile
+
+{
+    id: '394172593055334402',
+    username: 'tarantastic',
+    avatar: '20cd00d3ec9bf8dcebc1af21a51e06bc',
+    discriminator: '7824',
+    public_flags: 256,
+    flags: 256,
+    banner: null,
+    banner_color: null,
+    accent_color: null,
+    locale: 'en-US',
+    mfa_enabled: true,
+    provider: 'discord',
+    accessToken: 'iSvx7kWjxTnqJkntKz2GmZU9tuYFm9',
+    guilds: [
+      {
+        id: '143867839282020352',
+        name: 'C#',
+        icon: 'a_9792ff4af564d609736e178cd374de62',
+        owner: false,
+        permissions: 104189504,
+        features: [Array],
+        permissions_new: '247064809024'
+      },
+      {
+        id: '430087124876918798',
+        name: 'Botmart',
+        icon: 'a_3b49106151b00d0cfffebfcec367fd61',
+        owner: false,
+        permissions: 37080577,
+        features: [Array],
+        permissions_new: '246997700097'
+      },
+      {
+        id: '467779316051083264',
+        name: 'Dash Proxies',
+        icon: 'd3d015c848d9bdd5d3501af87d6cbd5a',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '476571023857418242',
+        name: 'Leaf Proxies',
+        icon: 'a4f613674a14c331aa7c8805c7f44693',
+        owner: false,
+        permissions: 103930944,
+        features: [Array],
+        permissions_new: '247064550464'
+      },
+      {
+        id: '488696192213975050',
+        name: 'plex view booster',
+        icon: null,
+        owner: false,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '490825105073635330',
+        name: 'theKickStation Support',
+        icon: 'a_3359532bd95d0895b3dde50b31ee6429',
+        owner: false,
+        permissions: 67488832,
+        features: [Array],
+        permissions_new: '247028108352'
+      },
+      {
+        id: '500010617113935883',
+        name: 'Tidal Market Place',
+        icon: 'a_7b6b5c2e21e61c4e8cbd523585d30fbd',
+        owner: false,
+        permissions: 37080577,
+        features: [Array],
+        permissions_new: '246997700097'
+      },
+      {
+        id: '517598251361239044',
+        name: 'TD Success Channel',
+        icon: null,
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '518994724334338068',
+        name: 'AYCD Toolbox',
+        icon: '6dff90313595cda5306e987d17aa125b',
+        owner: false,
+        permissions: 37080640,
+        features: [Array],
+        permissions_new: '246997700160'
+      },
+      {
+        id: '522807268811472937',
+        name: 'TeamBnB',
+        icon: '128121cf7569a699ec011a26954552dc',
+        owner: false,
+        permissions: 36822528,
+        features: [],
+        permissions_new: '246997442048'
+      },
+      {
+        id: '532775235443884052',
+        name: 'BAG CHASERS',
+        icon: 'f83e4e1cbd38575115e8c104d9554519',
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '539258061081018378',
+        name: 'Sneaker Development',
+        icon: 'babac2cbb5fe9aff7b08705fa7482cfc',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '542106255955853322',
+        name: '10x Group',
+        icon: 'ac2c64484ddd15bf6ddf3e740e68dd13',
+        owner: false,
+        permissions: 37084672,
+        features: [Array],
+        permissions_new: '246997704192'
+      },
+      {
+        id: '568891793735942195',
+        name: 'PaymentLinks',
+        icon: 'aa7fe12f392183f1941131c1cb9a5ccc',
+        owner: false,
+        permissions: 104188992,
+        features: [Array],
+        permissions_new: '247064808512'
+      },
+      {
+        id: '610514196869808140',
+        name: 'Freddys Dashboards',
+        icon: 'dd254b41dd7a40e0c39d909586f44f7c',
+        owner: false,
+        permissions: 378369,
+        features: [Array],
+        permissions_new: '246960997889'
+      },
+      {
+        id: '623556899379609640',
+        name: 'KSR (beta)',
+        icon: '297903d24478cef9e518ebfc2281f4d6',
+        owner: false,
+        permissions: 104189504,
+        features: [],
+        permissions_new: '247064809024'
+      },
+      {
+        id: '646726120439283723',
+        name: 'Slots Kitchen',
+        icon: '26aa2981e92db84357353509f463062c',
+        owner: false,
+        permissions: 104324673,
+        features: [Array],
+        permissions_new: '247064944193'
+      },
+      {
+        id: '651272338012110878',
+        name: 'Wise Accounts',
+        icon: '58a76aebae3c56f04d7487f2cc8c41cd',
+        owner: false,
+        permissions: 104193601,
+        features: [],
+        permissions_new: '247064813121'
+      },
+      {
+        id: '651676955548319780',
+        name: 'BotBroker',
+        icon: 'fc3f9bce32c69e33161dc6929df74c5b',
+        owner: false,
+        permissions: 104324673,
+        features: [],
+        permissions_new: '247064944193'
+      },
+      {
+        id: '663388213964046336',
+        name: 'GFNF',
+        icon: '42e6172d810bcdc0dd4bda33a4242ac3',
+        owner: false,
+        permissions: 104189504,
+        features: [Array],
+        permissions_new: '247064809024'
+      },
+      {
+        id: '668685331796721684',
+        name: 'SwadNotify',
+        icon: 'c9f90300ed79a02c449decc0d219e90c',
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '671183199912853504',
+        name: 'RUSHAIO',
+        icon: 'ceb5b0e7925d493da813ada421f6377a',
+        owner: false,
+        permissions: 1150528,
+        features: [Array],
+        permissions_new: '246961770048'
+      },
+      {
+        id: '676975118450294834',
+        name: "tarantastic's server",
+        icon: null,
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '681763403160748042',
+        name: 'swad development',
+        icon: null,
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '687431150616182829',
+        name: 'SG Cooks',
+        icon: '50770dbecd14f6a9c8f071f8b3a6cda4',
+        owner: false,
+        permissions: 37080640,
+        features: [Array],
+        permissions_new: '246997700160'
+      },
+      {
+        id: '687561274288373777',
+        name: 'ACM UC Merced',
+        icon: '0c1813fadd312159909c2abeb28fd746',
+        owner: false,
+        permissions: 104320577,
+        features: [Array],
+        permissions_new: '247064940097'
+      },
+      {
+        id: '688993022083465216',
+        name: 'server',
+        icon: null,
+        owner: false,
+        permissions: 104324673,
+        features: [],
+        permissions_new: '247064944193'
+      },
+      {
+        id: '698366411864670250',
+        name: 'cscareers.dev',
+        icon: '984d434cd90fd8114b35ee3832c80ce6',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '704424356045914134',
+        name: 'In This Economy',
+        icon: 'a_7e5d7268e6b37e0a7ebcf5a3e8debc17',
+        owner: false,
+        permissions: 372768321,
+        features: [Array],
+        permissions_new: '247333387841'
+      },
+      {
+        id: '707643912839364710',
+        name: 'Taran Dev',
+        icon: '333e343cbd5d7b52d3f227d7ef51fb3f',
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '729552383037931520',
+        name: 'Study Group',
+        icon: '792b9e541444ff72b1d1ea6f3e62fd90',
+        owner: false,
+        permissions: 104193601,
+        features: [],
+        permissions_new: '247064813121'
+      },
+      {
+        id: '731330568335392889',
+        name: 'Alien Accounts',
+        icon: '1b885c308e563baafc09abc6394676bd',
+        owner: false,
+        permissions: 104189505,
+        features: [],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '732999731508412417',
+        name: 'Cashout Kings',
+        icon: '50537216a40c093fde584f1958484c80',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '737161024343506995',
+        name: 'Playing Card Mart',
+        icon: '4859638b0dbed2821469efe1063bb5a3',
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '737592813436403762',
+        name: 'Gamma Digital',
+        icon: '6c587e0274862217f5d235934934daa1',
+        owner: false,
+        permissions: 104189505,
+        features: [],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '744323011825500182',
+        name: 'UCM CSE Study Group',
+        icon: 'f015b8f68cc4ab163e88a608b06b37ac',
+        owner: false,
+        permissions: 104320577,
+        features: [],
+        permissions_new: '247064940097'
+      },
+      {
+        id: '748285366041051258',
+        name: 'CSE Study Group',
+        icon: '4179dfc21b68ebb74e39de1913668bc0',
+        owner: false,
+        permissions: 104189505,
+        features: [],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '751609553703010384',
+        name: 'cse160proj',
+        icon: null,
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '770416494026031124',
+        name: 'Shuffled',
+        icon: 'e0866709c9f39b30da6a7bf71d852370',
+        owner: false,
+        permissions: 3526208,
+        features: [Array],
+        permissions_new: '246964145728'
+      },
+      {
+        id: '775822627133456424',
+        name: "Bandar's Bounties",
+        icon: 'a_6faaa9c0155e44bf909c58ffe35e3d34',
+        owner: false,
+        permissions: 37080640,
+        features: [Array],
+        permissions_new: '246997700160'
+      },
+      {
+        id: '777556575900532756',
+        name: 'KSR Renewal',
+        icon: '191de19efdf42ab71d5cfbaff02ac57e',
+        owner: false,
+        permissions: 104189504,
+        features: [Array],
+        permissions_new: '247064809024'
+      },
+      {
+        id: '790796075702419457',
+        name: 'Punjabi Money Gang',
+        icon: null,
+        owner: true,
+        permissions: 2147483647,
+        features: [],
+        permissions_new: '274877906943'
+      },
+      {
+        id: '794751552589398047',
+        name: 'Storm Accounts',
+        icon: 'f42f0727e653573edd184f0ac0dd94dd',
+        owner: false,
+        permissions: 104320577,
+        features: [],
+        permissions_new: '247064940097'
+      },
+      {
+        id: '798717209303580713',
+        name: 'Iris Proxies',
+        icon: 'aa37cb3670ea5a2c657457bf2b0ac888',
+        owner: false,
+        permissions: 37080640,
+        features: [],
+        permissions_new: '246997700160'
+      },
+      {
+        id: '806262070903439370',
+        name: 'Agrecom06',
+        icon: null,
+        owner: false,
+        permissions: 104320577,
+        features: [],
+        permissions_new: '247064940097'
+      },
+      {
+        id: '821227690559930399',
+        name: 'COPMAX SOLUTIONS',
+        icon: 'cdb93e99562a7210641f9605bcccf1c7',
+        owner: false,
+        permissions: 104189505,
+        features: [],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '841561947513159702',
+        name: "kervin zhang's server",
+        icon: '51af6015a85bc5e12cb25161826a323e',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '847277175718936636',
+        name: "Maxy's Cashouts",
+        icon: '80e11948a93459c64bfde51922de80d9',
+        owner: false,
+        permissions: 104189505,
+        features: [Array],
+        permissions_new: '247064809025'
+      },
+      {
+        id: '847981581313900564',
+        name: 'XTC PS5/XBOX CASHOUTS',
+        icon: '132f6cb7b7d09896819d63e4205ef5b9',
+        owner: false,
+        permissions: 104189504,
+        features: [],
+        permissions_new: '247064809024'
+      },
+      {
+        id: '856698562595258399',
+        name: 'ENGR 155 Economic Analysis',
+        icon: null,
+        owner: false,
+        permissions: 104320577,
+        features: [],
+        permissions_new: '247064940097'
+      }
+    ],
+    fetchedAt: 2021-07-23T00:09:05.768Z
+  }
