@@ -1,5 +1,10 @@
 # Discord-OAUTH2-Node
  
+ ![discordOuth1](https://user-images.githubusercontent.com/25716399/126927680-9efcde0c-de6f-4063-a359-9e7ff35d50bd.jpg)
+
+ 
+ ![fulautrh2](https://user-images.githubusercontent.com/25716399/126927673-b18c6eb8-4da7-4d30-b0f4-ee0e85aac088.jpg)
+
 
 SETUP IN ORDER TO RUN PROPERLY
 
